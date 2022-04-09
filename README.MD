@@ -1,6 +1,6 @@
 # Laurea bustimes template project
 
-heroku link: 
+heroku link: https://laurea-template-bus.herokuapp.com/
 
 ## How to find bus stop codes:
 
@@ -17,3 +17,9 @@ A few example IDs:
 HSL:1140447
 
 HSL:1472128
+
+HSL:1010108
+
+HSL:1010124
+
+HSL:1020106
